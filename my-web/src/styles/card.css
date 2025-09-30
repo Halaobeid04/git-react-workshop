@@ -3,14 +3,14 @@
   border-radius: 12px;
   overflow: hidden;
   background: #1e1e2f;
-  color: #ffffff;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+  color: #c4c3c3;
+  box-shadow: 0 6px 16px rgba(136, 135, 135, 0.4);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .card:hover {
   transform: translateY(-6px);
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 10px 24px rgba(103, 99, 99, 0.6);
 }
 
 .card__image {

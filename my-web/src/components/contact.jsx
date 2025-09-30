@@ -3,12 +3,12 @@ import "../styles/contact.css";
 
 const Contact = () => {
   return (
-    <>
+    
 
       <footer className="contact-footer">
         <div className="footer-content">
           <p>
-            you have a project or you want to say hi? Let's connect!
+             Have a project or you want to say hi? Let's connect!
           </p>
           <a className="email-link" href="mailto:halaobeid65@gmail.com">
             halaobeid65@gmail.com
@@ -25,7 +25,7 @@ const Contact = () => {
         </div>
      </footer>
 
-    </>
+    
   );
 };
 

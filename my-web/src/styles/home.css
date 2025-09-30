@@ -8,6 +8,7 @@
   padding: 0 20px;
 }
 
+
 .hero-content h1 { font-size: 3rem; margin-bottom: 10px; }
 
 .hero-content h2 { font-size: 1.8rem; margin-top: 0; }
@@ -19,8 +20,17 @@
   margin-left: auto;
   margin-right: auto;
 }
-.highlight { color: #d480aee9; }
+.highlight { color: #e98dbfe9; }
 .typewriter { color: #fff; font-weight: bold; }
+.profile-pic {
+  width: 230px;         /* adjust size */
+  height: 230px;
+  border-radius: 50%;   /* circle */
+  object-fit: cover;
+  margin-bottom: 20px;
+  border: 3px solid #471f35; /* optional border color */
+}
+
 
 .view_button {
   margin-top: 30px;

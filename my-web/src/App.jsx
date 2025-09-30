@@ -10,10 +10,14 @@ function App() {
 
   return (
     <>
-    <Navbar/>
-    <section></section>
+    <Navbar />
 
-      <Home/>
+    <section id="home">
+      <Home />
+
+    </section>
+
+      
 
       <section id="projects">
 
@@ -31,9 +35,12 @@ function App() {
         ))}
       </div>
       </section>
-      <Contact></Contact>
+      <section id="contact" className="contact">
+        <Contact />
+      </section>
+      
 
-      /* Add components here */
+      
 
     </>
   );

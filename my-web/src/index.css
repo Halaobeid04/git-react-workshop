@@ -1,11 +1,19 @@
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  .hero-desc {
+  font-family: 'Poppins', sans-serif;
+  margin-top: 20px;
+  font-size: 1 rem;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.8;    /*  more spacing */
+  color: #bab4b4;         
+}
+
+
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
