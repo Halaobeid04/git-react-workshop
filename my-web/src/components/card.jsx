@@ -6,6 +6,7 @@ export default function Card({ image, title, description, link }) {
 
   return (
     <>
+    <section>
     <div className="card">
       <img className="card__image" src={image} alt={title} />
 
@@ -22,11 +23,19 @@ export default function Card({ image, title, description, link }) {
         >
           {expanded ? "Show Less" : "Read More"}
         </button>
+        <button className="card__button"
+        onClick={() => window.open(link, "_blank")}>
+          Github
 
-        /*Add button here*/
+
+        </button>
+
+
+        
         
       </div>
     </div>
+    </section>
     </>
   );
 }
