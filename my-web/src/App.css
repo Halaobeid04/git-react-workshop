@@ -43,6 +43,7 @@ body{
 
 .projects{
   display: flex;
+      color: #66ccff;
   gap: 40px;
   flex-wrap: wrap;
   justify-content: center;
