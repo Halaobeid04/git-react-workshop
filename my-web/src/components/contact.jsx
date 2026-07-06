@@ -10,8 +10,8 @@ const Contact = () => {
           <p>
              Have a project or you want to say hi? Let's connect!
           </p>
-          <a className="email-link" href="mailto:halaobeid65@gmail.com">
-            halaobeid65@gmail.com
+          <a className="email-link" href="mailto:halaobeid656@gmail.com">
+            Email
           </a>
           <div className="social-links">
             <a href="https://github.com/Halaobeid04" target= "_blank">Github</a>

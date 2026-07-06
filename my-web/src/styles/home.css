@@ -11,7 +11,7 @@
 
 .hero-content h1 { font-size: 3rem; margin-bottom: 10px; }
 
-.hero-content h2 { font-size: 1.8rem; margin-top: 0; }
+.hero-content h2 { font-size: 1.9rem; margin-top: 0; }
 
 .hero-desc {
   margin-top: 20px;
@@ -20,11 +20,11 @@
   margin-left: auto;
   margin-right: auto;
 }
-.highlight { color: #e98dbfe9; }
+.highlight { color: #ea87c7e9; }
 .typewriter { color: #fff; font-weight: bold; }
 .profile-pic {
-  width: 230px;         /* adjust size */
-  height: 230px;
+  width: 250px;         /* adjust size */
+  height: 250px;
   border-radius: 50%;   /* circle */
   object-fit: cover;
   margin-bottom: 20px;
