@@ -21,7 +21,7 @@ export default function Navbar() {
       <ul className="nav-links">
         <li onClick={()=>scrollToSection("projects")}>Projects</li>
         <li onClick={() => scrollToSection("contact")}>Contact</li>
-        <li onClick={() => window.open("/Hala_Obeid_Resume_general.pdf", "_blank")}>Resume</li>
+        <li onClick={() => window.open("/Hala_Obeid_Resume2026.pdf", "_blank")}>Resume</li>
 
       </ul>
 
